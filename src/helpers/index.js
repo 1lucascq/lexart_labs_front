@@ -1,0 +1,1 @@
+export const API_LINK = 'https://lexart-labs-backend.vercel.app/api/'
